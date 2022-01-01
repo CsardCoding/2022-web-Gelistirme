@@ -1,0 +1,14 @@
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\class\class1.methot_parametreleri\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\class\class1.methot_parametreleri\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
